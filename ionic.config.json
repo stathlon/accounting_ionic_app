@@ -1,0 +1,8 @@
+{
+  "name": "accounting_app",
+  "app_id": "2849f9eb",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
